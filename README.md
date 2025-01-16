@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Seif Yakout</h1>
-<h3 align="center">Highly motivated and self-taught Cloud Engineer with a strong foundation in AWS and GCP</h3>
+<h3 align="center">Highly motivated and Self-taught Cloud Engineer with a strong foundation in AWS and GCP.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/seif yakout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seif yakout" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/seifyakout" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="seif yakout" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
