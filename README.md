@@ -20,7 +20,7 @@
 />
 
 <p align="left">
-  <b>Cloud &amp; DevOps Engineer</b> with hands-on experience designing and automating secure, scalable cloud infrastructure on AWS.<br><br>
+  <b>Cloud &amp; DevOps Engineer</b> with hands-on experience designing and automating secure, scalable cloud infrastructure on AWS.<br><br> <br><br> <br><br>
   Strong expertise in Terraform, Ansible, CI/CD pipelines (GitHub Actions), Docker, and monitoring with Prometheus and Grafana.
 </p>
 
